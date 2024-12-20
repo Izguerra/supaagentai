@@ -1,0 +1,2 @@
+# supaagentai
+Bolt.diy SupaAgent
